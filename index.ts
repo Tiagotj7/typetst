@@ -30,3 +30,6 @@ class Pessoa{
     //Chamando o método apresentar e exibindo o resultado no console
 
     console.log(pessoa1.apresentar());
+
+
+    //Fim...
